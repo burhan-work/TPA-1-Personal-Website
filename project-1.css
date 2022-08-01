@@ -250,15 +250,6 @@ header .follow a:hover{
     margin-bottom: 1.5rem;
 }
 
-
-
-.about .row-1{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    padding-bottom: 2rem;
-}
-
 .about .content{
     flex: 1 1 50rem;
 }
