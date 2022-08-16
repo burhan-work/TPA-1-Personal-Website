@@ -74,7 +74,13 @@ header .container .logo{
     text-transform: capitalize;
     color: #fff;
     font-size: 3rem;
-    font-weight: bolder;   
+    font-weight: bolder;
+    display: flex;   
+}
+
+header .container .logo:hover{
+    letter-spacing: .2rem;
+    color: var(--main-color);
 }
 
 header .container .navbar{
